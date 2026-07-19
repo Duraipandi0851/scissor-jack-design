@@ -1,4 +1,5 @@
 # Scissor Jack Design
+![Scissor Jack Render](Scissor_Jack_Render.JPG)
 
 ## Project Overview
 Mechanical Scissor Jack designed using SolidWorks.
