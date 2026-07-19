@@ -1,8 +1,16 @@
 # Scissor Jack Design
+
 ![Scissor Jack Render](Scissor_Jack_Render.JPG)
 
 ## Project Overview
-Mechanical Scissor Jack designed using SolidWorks.
+A manually operated Scissor Jack designed using SolidWorks.
+This project includes 3D part modeling, assembly, exploded view, BOM, and manufacturing drawings.
+
+## Technical Specifications
+- Material: Mild Steel
+- Software: SolidWorks 2025
+- Assembly Parts: 10
+- Drawing Standard: ISO
 
 ## Features
 - 3D Part Modeling
@@ -11,11 +19,12 @@ Mechanical Scissor Jack designed using SolidWorks.
 - BOM Creation
 - 2D Drawing
 
-## Software
-- SolidWorks
-- AutoCAD
-
 ## Files
-- Scissor_Jack_Render.jpg
-- Scissor_Jack_Isometric.pdf
-- Scissor_Jack_BOM.pdf
+- 📄 Scissor_Jack_Isometric.pdf
+- 📄 Scissor_Jack_BOM.pdf
+- 🖼️ Scissor_Jack_Render.JPG
+
+## Future Improvements
+- Motion Study
+- FEA Analysis
+- Detailed Manufacturing Drawings
